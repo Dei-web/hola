@@ -1,0 +1,92 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.contenedor{
+
+    background-color: bisque;
+    height: 1200px;
+    width: 1000px;
+    margin: auto;
+    margin-top: 1em;
+    margin-bottom: 1em;
+
+}
+
+.cuerpo{
+
+    height: 10%;
+    width: 8%;
+    background-color: red;
+    margin: auto;
+    position: relative;
+    top: 10em;
+    border-radius: 60px;
+    
+}
+
+.ojo{
+
+    background-color: black;
+    height: 30%;
+    width: 60%;
+    margin: 0.3em;
+    border-radius:60px ;
+    position: relative;
+    left: 2.3em;
+    top: 2em;
+}
+
+.pata{
+
+    background-color: red;
+    height: 50%;
+    width: 40%;
+    border-radius: 0 0 60px 60px;
+    position: relative;
+    top: 2.9em;
+}
+
+.laotrapata{
+     
+    background-color: red;
+    height: 50%;
+    width: 40%;
+    border-radius: 0 0 60px 60px;
+    position: relative;
+    left: 3em;
+    bottom: 0.8em;
+
+}
+
+.mochila{
+
+    background-color: red;
+    height: 50%;
+    width: 40%;
+    border-radius: 60px;
+    position: relative;
+    right: 1.5em;
+    bottom: 7em;
+    border: 5px solid black;
+
+}
+
+
+.contenedor h1{
+
+    text-align: center;
+    position: relative;
+    top: 2em;
+}
+
+.foot p{
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
